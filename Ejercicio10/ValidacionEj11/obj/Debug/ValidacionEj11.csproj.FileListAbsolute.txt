@@ -1,0 +1,6 @@
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\ValidacionEj11\bin\Debug\ValidacionEj11.dll
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\ValidacionEj11\bin\Debug\ValidacionEj11.pdb
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\ValidacionEj11\obj\Debug\ValidacionEj11.csprojAssemblyReference.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\ValidacionEj11\obj\Debug\ValidacionEj11.csproj.CoreCompileInputs.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\ValidacionEj11\obj\Debug\ValidacionEj11.dll
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\ValidacionEj11\obj\Debug\ValidacionEj11.pdb

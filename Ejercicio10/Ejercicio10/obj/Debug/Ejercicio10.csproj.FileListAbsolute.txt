@@ -1,0 +1,10 @@
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\bin\Debug\ValidacionEj11.dll
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\bin\Debug\ValidacionEj11.pdb
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojAssemblyReference.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CopyComplete
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
