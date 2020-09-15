@@ -1,0 +1,6 @@
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio16\Alumno\bibliotecaEj16\bin\Debug\bibliotecaEj16.dll
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio16\Alumno\bibliotecaEj16\bin\Debug\bibliotecaEj16.pdb
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio16\Alumno\bibliotecaEj16\obj\Debug\bibliotecaEj16.csprojAssemblyReference.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio16\Alumno\bibliotecaEj16\obj\Debug\bibliotecaEj16.csproj.CoreCompileInputs.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio16\Alumno\bibliotecaEj16\obj\Debug\bibliotecaEj16.dll
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio16\Alumno\bibliotecaEj16\obj\Debug\bibliotecaEj16.pdb

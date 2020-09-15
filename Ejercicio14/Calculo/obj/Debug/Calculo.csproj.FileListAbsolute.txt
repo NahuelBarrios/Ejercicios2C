@@ -1,0 +1,6 @@
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Calculo\bin\Debug\Calculo.dll
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Calculo\bin\Debug\Calculo.pdb
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Calculo\obj\Debug\Calculo.dll
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Calculo\obj\Debug\Calculo.pdb

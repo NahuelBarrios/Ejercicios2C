@@ -1,0 +1,10 @@
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.exe
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.pdb
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\bin\Debug\Calculo.dll
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\bin\Debug\Calculo.pdb
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csprojAssemblyReference.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csproj.CopyComplete
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.exe
+C:\Users\Nahu_\OneDrive\Escritorio\Ejercicios2D\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.pdb
